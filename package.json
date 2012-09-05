@@ -1,5 +1,6 @@
 {
   "name": "nodeapps-helloworld",
+  "user": "kuruma",
   "author": "Nodejitsu Inc. <support@nodejitsu.com>",
   "version": "0.1.0",
   "scripts": {
